@@ -110,19 +110,6 @@ Community-powered parking platform that helps users discover hidden parking spac
 
 ---
 
-### 💸 BagiBon
-
-Simple and privacy-focused bill splitting application.
-
-**Features**
-
-* No login required
-* No user data storage
-* Fast and lightweight
-* Mobile-friendly
-
----
-
 ### 🤖 AI Learning Projects
 
 A collection of projects built while exploring:
