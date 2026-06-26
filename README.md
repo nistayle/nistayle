@@ -17,7 +17,7 @@
     <td width="60%" valign="top">
       <p align="left">👋 Hello! I'm Anisa, a passionate tech-innovator bridging the gap between business strategies, cutting-edge AI, and digital creativity.</p>
       <ul>
-        <li>🎓 <b>Education:</b> Digital Business Student at EEPIS & Tech-cohort Alumna</li>
+        <li>🎓 <b>Education:</b> Digital Business Student at EEPIS & Class of 2026</li>
         <li>🚀 <b>Tech Journey:</b> Graduated from SMKN 10 Semarang (Software & Game Development)</li>
         <li>🎨 <b>Creative Side:</b> Freelance 2D Illustrator with a love for visual design</li>
         <li>🧠 <b>Core Focus:</b> Machine Learning, AI Applications, and Digital Startups</li>
