@@ -1,3 +1,5 @@
+![Banner Profil Anisa](banner.jpg)
+
 # 👋 Hi, I'm Anisa Tri Hanan (nistayle)
 
 <p align="center">
