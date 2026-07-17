@@ -1,4 +1,4 @@
-![Banner Profil Anisa](life.jpg)
+![Banner Profil Anisa](ban_20260717_234809_0000.png)
 
 # 👋 Hi, I'm Anisa Tri Hanan (nistayle)
 
