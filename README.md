@@ -38,6 +38,27 @@
 
 <br>
 
+
+<!-- 2. GIF di Kiri | Text Kalimat di Kanan (Tabel Bersih Tanpa Garis & Jarak Dekat) -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; border-spacing: 0; width: 100%;">
+  <tr>
+    <!-- Kolom GIF Lokal -->
+    <td border="0" style="border: none; padding: 0 15px 0 0; width: 40%;" valign="top" align="center">
+      <img src="witch.gif" alt="Coding GIF" width="100%" style="display: block; border: none;" />
+    </td>
+    <!-- Kolom Text Kalimat Kanan -->
+    <td border="0" style="border: none; padding: 0 0 0 15px; width: 60%; text-align: left; line-height: 1.6;" valign="top">
+      Saya memiliki ketertarikan yang sangat besar pada pengembangan startup digital, inovasi teknologi finansial, serta eksplorasi di bidang kedirgantaraan dan teknologi antariksa. Melalui platform ini, saya mendokumentasikan proses belajar, eksperimen kode, dan berbagai proyek yang sedang saya kembangkan.
+<p align="center">
+  <strong>🔥 Status:</strong> <code>Looking for Teams / Partners for Hackathons & Data Science Competitions!</code>
+  <br><br>
+  Let's connect and build something awesome together! 🚀
+</p>
+    </td>
+  </tr>
+</table>
+
+
 <!-- Tech Stack -->
 <h3 align="center">💻 Tech Stack</h3>
 <div align="center">
