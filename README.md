@@ -1,16 +1,12 @@
 ![Banner Profil Anisa](ban_20260717_234809_0000.png)
 
-# 👋 Hi, I'm Anisa Tri Hanan (nistayle)
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&background=00000000&center=true&vCenter=true&width=500&lines=Digital+Business+Student;AI+%26+Robotics+Enthusiast;Freelance+2D+Illustrator;Tech+Product+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&background=00000000&center=true&vCenter=true&width=500&lines=Hello+this+is+Anisa+Speaking;AI+%26+Data+Science+Enthusiast;Freelance+2D+Illustrator;Tech+Product+Innovator" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nistayle&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
-
----
 
 ## 💫 About Me
 
@@ -31,8 +27,6 @@
     </td>
   </tr>
 </table>
-
----
 
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
@@ -90,7 +84,6 @@
 </div>
 
 </div>
----
 
 ## 📊 My GitHub Analytics (Real-time Stats)
 
