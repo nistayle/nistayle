@@ -88,19 +88,19 @@
 ## 📊 My GitHub Analytics (Real-time Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nistayle&show_icons=true&theme=rose&hide_border=true&count_private=true" alt="Anisa's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nistayle&theme=rose&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=nistayle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anisa's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nistayle&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nistayle&layout=compact&theme=rose&hide_border=true&langs_count=6" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=nistayle&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="60%" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph Animation
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nistayle&theme=github-theme-rose&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nistayle&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
